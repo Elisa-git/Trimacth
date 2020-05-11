@@ -13,4 +13,9 @@
 ## Atributos
 
 ### Cliente
+* CPF #
+* Número *
+* Email o
+* Nome *
+* Compras o
 
