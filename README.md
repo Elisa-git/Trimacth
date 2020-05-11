@@ -8,3 +8,9 @@
 * Reserva
 * Venda
 * Relatório
+* Parceiros (?)
+
+## Atributos
+
+### Cliente
+
