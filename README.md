@@ -53,6 +53,7 @@
 * Forma de pagamento *
 * Parcelas o
 * Código da compra #
+* **Adicionais (algo a mais q o cliente deseja que não esteja incluso no pacote) (??)**
 
 ## Parceiros
 * Empresa
