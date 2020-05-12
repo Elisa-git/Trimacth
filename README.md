@@ -2,7 +2,6 @@
 
 ## Entidades
 * Cliente
-* Parceiros (?)
 * Hospedagem
 * Voo
 * Pacote
@@ -19,18 +18,12 @@
 * Nome *
 * Compras o
 
-## Parceiros (??)
-* Aviação
-* Hotelaria
-* Translado 
-* Passeios (?)
-* Ingressos (?)
-
 ## Hospedagem
-* Tipo
-* Local
-* Extras (mudar nome)
-* Valor diária
+* UID #
+* Tipo *
+* Local *
+* Extras (mudar nome) o
+* Valor diária *
 
 ## Voo
 * UID #
@@ -42,7 +35,7 @@
 * Valor
 
 ## Pacote
-* Quantidade de dias *
+* Estadia *
 * Quantidade de pessoas *
 * Alimentação *
 * Disponibilidade *
