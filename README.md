@@ -19,23 +19,35 @@
 * Nome *
 * Compras o
 
-## Parceiros
+## Parceiros (??)
 * Aviação
-* Hotelaria (Chave)
+* Hotelaria
 * Translado 
 * Passeios (?)
 * Ingressos (?)
 
-## Hopedagem
+## Hospedagem
 * Tipo
 * Local
 * Extras (mudar nome)
+* Valor diária
 
 ## Voo
-* Aviação (Chave?)
+* UID #
+* Aviação (Chave e.?)
 * Disponibilidade
 * Assento
 * Classe
 * Tempo de voo
+* Valor
 
-#
+## Pacote
+* Quantidade de dias *
+* Quantidade de pessoas *
+* Alimentação *
+* Disponibilidade *
+* Valor total *
+* Hospedagem (Chave e.)
+* Voo (Chave e.)
+* UID #
+* Adicionais (passeios, etc..) (?)
