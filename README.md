@@ -40,7 +40,23 @@
 * Alimentação *
 * Disponibilidade *
 * Valor total *
-* Hospedagem (Chave e.)
-* Voo (Chave e.)
+* Hospedagem (Chave e.) (NÃO COLOQUEI NA TABELA)
+* Voo (Chave e.) (NÃO COLOQUEI NA TABELA)
 * UID #
-* Adicionais (passeios, etc..) (?)
+* Adicionais (passeios, etc..) (?) (NÃO COLOQUEI NA TABELA)
+
+## Venda
+* Cliente (Chave e.)
+* Pacote (Chave e.)
+* Valor
+* Lucro (?)
+
+| Cliente     | Hospedagem        | Voo               | Pacote            | Venda | Relatório | Reserva |
+| *---------* | *---------------* | *---------------* | *---------------* | *---* | *-------* | *-----* |
+| CPF #       | UID #             | UID #             | UID #             | 
+| Nome *      | Tipo *            | Aviação *         | Qtd. de pessoas * |         
+| Telefone *  | Local *           | Disponibilidade o | Alimentação o     |
+| Email o     | Extra o           | Assento *         | Disponibilidade o |
+| Compra o    | Valor diária *    | Classe *          | Valor total*      |
+|             | Disponibilidade o | Tempo de voo *    | 
+|             |                   | Valor *           |
