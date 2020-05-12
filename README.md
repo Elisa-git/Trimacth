@@ -8,6 +8,7 @@
 * Reserva
 * Venda
 * Relatório
+* Parceiros (??)
 
 ## Atributos
 
@@ -48,15 +49,26 @@
 ## Venda
 * Cliente (Chave e.)
 * Pacote (Chave e.)
-* Valor
-* Lucro (?)
+* Valor total *
+* Forma de pagamento *
+* Parcelas o
+* Código da compra #
 
-| Cliente     | Hospedagem        | Voo               | Pacote            | Venda | Relatório | Reserva |
-| :---------: | :---------------: | :---------------: | :---------------: | :---: | :-------: | :-----: |
-| CPF #       | UID #             | UID #             | UID #             |       |           |         |
-| Nome *      | Tipo *            | Aviação *         | Qtd. de pessoas * |       |           |         |
-| Telefone *  | Local *           | Disponibilidade o | Alimentação o     |       |           |         |
-| Email o     | Extra o           | Assento *         | Disponibilidade o |       |           |         |
-| Compra o    | Valor diária *    | Classe *          | Valor total*      |       |           |         |
-|             | Disponibilidade o | Tempo de voo *    |                   |       |           |         |
-|             |                   | Valor *           |                   |       |           |         |
+## Parceiros
+* Empresa
+* Tipo (Aviação, hotel, turismo..)
+* Local
+* Disponibilidade (SE ESSA ENTIDADE EXISTIR TEM Q TIRAR O ATRIBUTO DISPONIBILIDADE DAS OUTRAS ENTIDADES)
+
+---
+
+
+| Cliente     | Hospedagem        | Voo               | Pacote            | Venda             | Relatório | Reserva |
+| :---------: | :---------------: | :---------------: | :---------------: | :---------------: | :-------: | :-----: |
+| CPF #       | UID #             | UID #             | UID #             | Código compra #   |           |         |
+| Nome *      | Tipo *            | Aviação *         | Qtd. de pessoas * | Forma pagamento * |           |         |
+| Telefone *  | Local *           | Disponibilidade o | Alimentação o     | Parcelas o        |           |         |
+| Email o     | Extra o           | Assento *         | Disponibilidade o | Valor total *     |           |         |
+| Compra o    | Valor diária *    | Classe *          | Valor total*      |                   |           |         |
+|             | Disponibilidade o | Tempo de voo *    |                   |                   |           |         |
+|             |                   | Valor *           |                   |                   |           |         |
