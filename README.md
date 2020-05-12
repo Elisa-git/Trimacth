@@ -53,10 +53,10 @@
 
 | Cliente     | Hospedagem        | Voo               | Pacote            | Venda | Relatório | Reserva |
 | *---------* | *---------------* | *---------------* | *---------------* | *---* | *-------* | *-----* |
-| CPF #       | UID #             | UID #             | UID #             | 
-| Nome *      | Tipo *            | Aviação *         | Qtd. de pessoas * |         
-| Telefone *  | Local *           | Disponibilidade o | Alimentação o     |
-| Email o     | Extra o           | Assento *         | Disponibilidade o |
-| Compra o    | Valor diária *    | Classe *          | Valor total*      |
-|             | Disponibilidade o | Tempo de voo *    | 
-|             |                   | Valor *           |
+| CPF #       | UID #             | UID #             | UID #             |       |           |         |
+| Nome *      | Tipo *            | Aviação *         | Qtd. de pessoas * |       |           |         |
+| Telefone *  | Local *           | Disponibilidade o | Alimentação o     |       |           |         |
+| Email o     | Extra o           | Assento *         | Disponibilidade o |       |           |         |
+| Compra o    | Valor diária *    | Classe *          | Valor total*      |       |           |         |
+|             | Disponibilidade o | Tempo de voo *    |                   |       |           |         |
+|             |                   | Valor *           |                   |       |           |         |
