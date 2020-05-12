@@ -52,7 +52,7 @@
 * Lucro (?)
 
 | Cliente     | Hospedagem        | Voo               | Pacote            | Venda | Relatório | Reserva |
-| *---------* | *---------------* | *---------------* | *---------------* | *---* | *-------* | *-----* |
+| :---------: | :---------------: | :---------------: | :---------------: | :---: | :-------: | :-----: |
 | CPF #       | UID #             | UID #             | UID #             |       |           |         |
 | Nome *      | Tipo *            | Aviação *         | Qtd. de pessoas * |       |           |         |
 | Telefone *  | Local *           | Disponibilidade o | Alimentação o     |       |           |         |
