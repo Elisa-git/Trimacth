@@ -17,6 +17,7 @@
 * Número *
 * Email o
 * Nome *
+* Sobrenome *
 * Compras o
 
 ## Hospedagem
